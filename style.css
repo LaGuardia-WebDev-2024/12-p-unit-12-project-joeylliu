@@ -20,3 +20,9 @@ hr {
   height: 5px;
   background-color: black;
 }
+
+.buttons:hover
+{
+  background-color: lightgoldenrodyellow;
+  border-color: rgb(243, 226, 255);
+}
